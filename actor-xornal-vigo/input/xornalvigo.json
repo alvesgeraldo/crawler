@@ -1,0 +1,13 @@
+{
+    "base_url": "https://xornal.vigo.org/",
+    "startUrls": [
+        {
+            "url": "https://xornal.vigo.org/"
+        }
+    ],
+    "start_urls": [
+        {
+            "url": "https://xornal.vigo.org/"
+        }
+    ]
+}
